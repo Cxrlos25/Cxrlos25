@@ -19,7 +19,6 @@ Hola, soy Carlos Andre
 - Desarrollo **web básico/intermedio**
 - Me gusta usar la tecnología para **resolver problemas reales**
 - Siempre dispuesto a aprender algo nuevo
-- Buscando **prácticas pre-profesionales en Ciberseguridad / análisis de datos**
 
 <br>
 

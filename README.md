@@ -5,7 +5,7 @@
 
 ---
 
-## About me
+## 🙋‍♂️ About me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
@@ -41,27 +41,34 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
 
 <h3>Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <h3>Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <h3>Mobile Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,swift&theme=dark" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
 <h3>Systems & Security</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-Basic-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
 <h3>Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>

@@ -8,7 +8,6 @@ Hola, soy Carlos Andre
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 <br>
-<img width="622" height="322" alt="Captura de pantalla 2026-05-17 a las 8 32 32 p  m" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
 - Estudiante de **Ingeniería de Software** 
 - Experiencia en **soporte técnico, redes y mantenimiento**
 - Usuario de **Linux** (nivel básico)
@@ -60,4 +59,4 @@ Hola, soy Carlos Andre
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
   </a>
 </p>
- DAME TODO EL CODIGO
+ COMO PUEDO AGREGAR UNA IMAGEN

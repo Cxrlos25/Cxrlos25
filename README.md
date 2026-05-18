@@ -1,21 +1,21 @@
-  <div align="center">
+<div align="center">
 <h1>👋 Hi, I'm Carlos Andre</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;Tech+Problem+Solver;Always+learning+something+new!" alt="Typing SVG" />
 </div>
 
 ---
 
-## About me
+## 🙋‍♂️ About me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="160" style="border-radius:50%;" alt="Carlos Andre"/>
+  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="220" style="border-radius:50%;" alt="Carlos Andre"/>
 </p>
 
-I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering. I have a keen interest in web development, networking, cybersecurity, and using technology to solve real problems.
+Hi! I'm Carlos Andre Hinostroza, a Software Engineering student with a passion for turning ideas into real solutions. I'm interested in web development, cybersecurity, and networking — and I'm always eager to learn something new and take on new challenges.
 
 <br clear="both"/>
 

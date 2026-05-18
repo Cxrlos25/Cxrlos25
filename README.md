@@ -11,9 +11,9 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
-<img align="left" width="250" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
-
-<br><br><br>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="160" style="border-radius:50%;" alt="Carlos Andre"/>
+</p>
 
 I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering. I have a keen interest in web development, networking, cybersecurity, and using technology to solve real problems.
 
@@ -36,13 +36,13 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
 <h3>Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 <h3>Backend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>

@@ -4,16 +4,12 @@ Hola, soy Carlos Andre
 <br>
 
 ---
-
 ## Sobre mí
-
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
-
 <br>
-<img width="622" height="322" alt="Captura de pantalla 2026-05-17 a las 8 32 32 p  m" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
-
+<img width="200" alt="Mi foto" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
 
 - Estudiante de **Ingeniería de Software** 
 - Experiencia en **soporte técnico, redes y mantenimiento**
@@ -21,15 +17,11 @@ Hola, soy Carlos Andre
 - Desarrollo **web básico/intermedio**
 - Me gusta usar la tecnología para **resolver problemas reales**
 - Siempre dispuesto a aprender algo nuevo
-
 <br>
 
 ---
-
 ## Tecnologías y habilidades
-
 ### Lenguajes de programación
-
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
@@ -38,9 +30,7 @@ Hola, soy Carlos Andre
 </p>
 
 ---
-
 ### Desarrollo Web
-
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
@@ -48,9 +38,7 @@ Hola, soy Carlos Andre
 </p>
 
 ---
-
 ### Ciberseguridad & Sistemas
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Redes-%23007ACC.svg?style=plastic&logoColor=white">
@@ -58,9 +46,7 @@ Hola, soy Carlos Andre
 </p>
 
 ---
-
 ### Herramientas
-
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
@@ -69,14 +55,12 @@ Hola, soy Carlos Andre
 </p>
 
 ---
-
 ## Contacto
-
 <p align="center">
   <a href="mailto:ndrehinos25@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="https://www.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Cxrlos25">

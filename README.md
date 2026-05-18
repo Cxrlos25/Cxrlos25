@@ -11,9 +11,9 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
-<img align="left" width="150" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
+<img align="left" width="250" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
 
-<br><br>
+<br><br><br>
 
 I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering. I have a keen interest in web development, networking, cybersecurity, and using technology to solve real problems.
 
@@ -24,14 +24,8 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:ndrehinos25@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Cxrlos25">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 

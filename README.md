@@ -31,7 +31,7 @@ Hi! I'm Carlos, a Software Engineering student with a passion for turning ideas 
 
 ---
 
-## 💻 Skills
+ 💻 Skills
 
 <h3>Frontend</h3>
 <p align="center">

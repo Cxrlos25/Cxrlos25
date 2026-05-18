@@ -11,9 +11,9 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
-<img align="left" width="150" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
-
-<br><br>
+<p align="left">
+  <img width="200" style="border-radius: 50%;" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
+</p>
 
 I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering. I have a keen interest in web development, networking, cybersecurity, and using technology to solve real problems.
 

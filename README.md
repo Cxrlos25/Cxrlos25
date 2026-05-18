@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 <h1>👋 Hi, I'm Carlos Andre</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;Tech+Problem+Solver;Always+learning+something+new!" alt="Typing SVG" />
 </div>
@@ -38,6 +38,7 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 <h3>Backend</h3>
@@ -45,6 +46,7 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
 <h3>Databases</h3>

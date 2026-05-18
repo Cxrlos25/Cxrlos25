@@ -5,15 +5,15 @@
 
 ---
 
-## 🙋‍♂️ About me
+## About me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
-<p align="left">
-  <img width="200" style="border-radius: 50%;" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
-</p>
+<img align="left" width="150" alt="Carlos Andre" src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" />
+
+<br><br>
 
 I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering. I have a keen interest in web development, networking, cybersecurity, and using technology to solve real problems.
 
@@ -49,11 +49,16 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
   <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
 </p>
 
+<h3>Mobile Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,swift&theme=dark" />
+</p>
+
 <h3>Systems & Security</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-Basic-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-Basic-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
 <h3>Tools</h3>

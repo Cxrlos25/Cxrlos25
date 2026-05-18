@@ -5,7 +5,7 @@
 
 ---
 
-## 🙋‍♂️ About me
+## About me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
@@ -50,20 +50,27 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+
+<h3>Databases</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
 
 <h3>Mobile Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
 <h3>Systems & Security</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-Basic-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=white">
 </p>
 
 <h3>Tools</h3>
@@ -71,4 +78,5 @@ I'm Carlos Andre Hinostroza, currently pursuing a degree in Software Engineering
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </p>

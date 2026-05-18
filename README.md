@@ -12,7 +12,7 @@
 </picture>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="220" style="border-radius:50%;" alt="Carlos Andre"/>
+  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="320" style="border-radius:20px;" alt="Carlos Andre"/>
 </p>
 
 Hi! I'm Carlos Andre Hinostroza, a Software Engineering student with a passion for turning ideas into real solutions. I'm interested in web development, cybersecurity, and networking — and I'm always eager to learn something new and take on new challenges.

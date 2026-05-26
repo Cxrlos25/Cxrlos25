@@ -24,7 +24,7 @@ Hi! I'm Carlos, a Software Engineering student with a passion for turning ideas 
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
+  <a href="https://pe.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384 ">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>

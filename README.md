@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20Carlos%20Andre%20👋&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=Software%20Student%20%7C%20Web%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=62&descSize=16&descFontColor=8b949e&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20Carlos%20Andre&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=Software%20Student%20%7C%20Web%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=62&descSize=16&descFontColor=8b949e&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Turning+ideas+into+real+solutions+%F0%9F%9A%80;Web+Development+%7C+Security+%7C+Networking;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Turning+ideas+into+real+solutions;Web+Development+%7C+Security+%7C+Networking;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@ Hi! I'm Carlos, a Software student with a passion for turning ideas into real so
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
   <a href="https://pe.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384">
@@ -30,7 +30,7 @@ Hi! I'm Carlos, a Software student with a passion for turning ideas into real so
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h3>Frontend</h3>
 <p align="center">

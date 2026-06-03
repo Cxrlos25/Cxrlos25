@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 Hi, I'm Carlos Andre</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Developer;Tech+Problem+Solver;Always+learning+something+new!" alt="Typing SVG" />
+ />
 </div>
 
 ---

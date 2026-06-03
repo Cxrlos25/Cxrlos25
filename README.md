@@ -8,10 +8,12 @@
 ## About me
 
 <picture>
+   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
+
 </picture>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b51939fb-b4af-46ac-ae39-a775ec4d92e9" width="320" style="border-radius:20px;" alt="Carlos Andre"/>
+
 </p>
 
 Hi! I'm Carlos, a Software  student with a passion for turning ideas into real solutions. I'm interested in web development, cybersecurity, and networking  and I'm always eager to learn something new and take or new challenges.

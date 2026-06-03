@@ -1,6 +1,9 @@
 <div align="center">
-<h1>👋 Hi, I'm Carlos Andre</h1>
- 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20Carlos%20Andre%20👋&fontSize=36&fontColor=58a6ff&fontAlignY=40&desc=Software%20Student%20%7C%20Web%20%7C%20Cybersecurity%20%7C%20Networking&descAlignY=62&descSize=16&descFontColor=8b949e&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Turning+ideas+into+real+solutions+%F0%9F%9A%80;Web+Development+%7C+Security+%7C+Networking;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -8,15 +11,10 @@
 ## About me
 
 <picture>
-   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
-
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230">
 </picture>
 
-<p align="left">
-
-</p>
-
-Hi! I'm Carlos, a Software  student with a passion for turning ideas into real solutions. I'm interested in web development, cybersecurity, and networking  and I'm always eager to learn something new and take or new challenges.
+Hi! I'm Carlos, a Software student with a passion for turning ideas into real solutions. I'm interested in web development, cybersecurity, and networking and I'm always eager to learn something new and take on new challenges.
 
 <br clear="both"/>
 
@@ -25,13 +23,14 @@ Hi! I'm Carlos, a Software  student with a passion for turning ideas into real s
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://pe.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384 ">
+  <a href="https://pe.linkedin.com/in/carlos-andre-hinostroza-altamirano-107234384">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
+## 🛠️ Tech Stack
 
 <h3>Frontend</h3>
 <p align="center">
@@ -77,3 +76,7 @@ Hi! I'm Carlos, a Software  student with a passion for turning ideas into real s
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=100&section=footer&animation=fadeIn)
